@@ -38,7 +38,7 @@ In this text adventure, you play the role of an interviewer conducting a job int
 ### Installation and Running
 1. **Clone the Repository**: 
     ```sh
-    git clone https://github.com/your-username/text-adventure.git
+    git clone https://github.com/KellyDRasmussen/text-adventure.git
     ```
 2. **Install Inky**: Download and install Inky from [Inkle's official website](https://www.inklestudios.com/ink/).
 3. **Open the Project**: Open the `.ink` file in Inky to start exploring and playing the story.
