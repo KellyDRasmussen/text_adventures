@@ -2,12 +2,12 @@
 
 ## Overview
 
-Welcome to my repository for creating interactive text adventures using Inky! This repository contains my journey into the world of interactive fiction, where I blend storytelling and programming to create immersive narrative experiences.
+Welcome to my repository for creating interactive text adventures using Inky.
 
 ## General Approach
 
 ### Planning the Story
-1. **Conceptualization**: I start with a basic idea or theme for the story. This includes defining the setting, main plot points, and key characters.
+1. **Conceptualisation**: I start with a basic idea or theme for the story. This includes defining the setting, main plot points, and key characters.
 2. **Plot Outline**: I draft an outline of the story, including major events and how they unfold. This helps me stay organized and ensures a coherent narrative flow.
 
 ### Writing the Story
