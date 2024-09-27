@@ -5,7 +5,7 @@
 Welcome to my repository for creating interactive text adventures using Inky.
 
 
-## [https://kellydrasmussen.github.io/text_adventures/](This Project: The Job Interview Adventure)
+## (This Project: The Job Interview Adventure)[https://kellydrasmussen.github.io/text_adventures/]
 
 ### Overview
 In this text adventure, you play the role of an interviewer conducting a job interview. You have a selection of questions to choose from, and based on the candidate's responses, you decide whether to hire them. The candidate's answers can reveal hidden traits, adding an intriguing twist to the narrative.
