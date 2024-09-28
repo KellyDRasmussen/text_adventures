@@ -1,18 +1,16 @@
-# Text Adventure Creation
+# Text Adventure Projects
 
 ## Overview
 
-Welcome to my repository for creating interactive text adventures using Inky.
+Here is my repository for creating interactive text adventures using Inky.
 
-
-## This Project: The Job Interview Adventure https://kellydrasmussen.github.io/text_adventures/
+## First Project: The Job Interview Adventure https://kellydrasmussen.github.io/text_adventures/
 
 ### Overview
-In this text adventure, you play the role of an interviewer conducting a job interview. You have a selection of questions to choose from, and based on the candidate's responses, you decide whether to hire them. The candidate's answers can reveal hidden traits, adding an intriguing twist to the narrative.
+In this text adventure, you play the role of an interviewer conducting a job interview. You have a selection of questions to choose from, and based on the candidate's responses, you decide whether to hire them. The candidate's answers can reveal hidden traits.
 
 ### Key Features
 - **Dynamic Question Pool**: You have a large pool of questions, but only a subset is presented in each playthrough, ensuring variability and replayability.
-- **Branching Storyline**: The candidate's responses and your choices lead to different paths and outcomes, making each playthrough unique.
 - **Interactive Decisions**: Your decisions affect the flow of the story and the final outcome, making the player an active participant in the narrative.
 
 ### How to Play
@@ -21,12 +19,3 @@ In this text adventure, you play the role of an interviewer conducting a job int
 3. **Make Decisions**: Based on the candidate's responses, decide whether to hire them or not.
 4. **Experience the Outcome**: See the consequences of your decisions and the hidden traits revealed by the end of the interview.
 
-### Installation and Running
-1. **Clone the Repository**: 
-    ```sh
-    git clone https://github.com/KellyDRasmussen/text-adventure.git
-    ```
-2. **Install Inky**: Download and install Inky from [Inkle's official website](https://www.inklestudios.com/ink/).
-3. **Open the Project**: Open the `.ink` file in Inky to start exploring and playing the story.
-
-Happy adventuring!
